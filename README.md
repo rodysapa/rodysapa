@@ -1,6 +1,6 @@
 ### Olá, Sou Rodolfo Sapateiro👋
 
-- 🖥️ Graduação em engenharia de computação
+- 🖥️ Graduação em engenharia de computação UTFPR
 - 📚 Estou estudando desenvolvimento mobile e web
 - 🧑🏻‍💻 Estou procurando um estágio na aréa de desenvolvimento mobile
 - 📫 Contacte-me: rodysapateiro@gmail.com
