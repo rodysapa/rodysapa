@@ -2,7 +2,7 @@
 
 - 🖥️ Graduação em engenharia de computação UTFPR
 - 📚 Estou estudando desenvolvimento mobile e web
-- 🧑🏻‍💻 Estou procurando um estágio na aréa de desenvolvimento mobile e Web
+- 🧑🏻‍💻 Estou procurando um estágio na aréa de desenvolvimento mobile ou Web
 - 📫 Contacte-me: rodysapateiro@gmail.com
 - ⚡ Gosta de música, filmes e séries
 ###
